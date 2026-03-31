@@ -7,6 +7,7 @@ An unofficial port of BOSS TONE STUDIO to Linux.
 ### Requirements
 
 1. Docker Engine for Linux: https://docs.docker.com/engine/install/
+2. Make sure [docker buildx](https://docs.docker.com/reference/cli/docker/buildx/) (BuildKit) is installed, or you can't export the binary
 
 ### Building
 
